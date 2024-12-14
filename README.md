@@ -1,5 +1,10 @@
 <h1 align="left">Hi 👋, I'm Sayem</h1>
 <h3 align="left">A passionate frontend developer from Bangladesh |MERN developer | Webflow developer.</h3>
+<img align="right" src="https://dribbble.com/shots/3850691-Web-Development-Illustration" alt="">
+
+- 📫 How to reach me **abusayemm776@gmail.com**
+
+- ⚡ Hobbies **Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
