@@ -1,7 +1,7 @@
  <img src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1734189675~exp=1734193275~hmac=f68f0ec466e8a8a46e3bca3c6b203c9a4bcdb93fbb0829257b92d223b411f7fc&w=1480" alt="">
     <h1 align="left">Hi 👋, I'm Sayem</h1>
     <h3 align="left">A passionate frontend developer from Bangladesh |MERN developer | Webflow developer.</h3>
-    <img width="300" align="right" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="">
+   
     
     
   
